@@ -11,5 +11,8 @@ Tableau: Transformed data into insightful visualizations using features such as 
 💡 Key Insights: 
 
 •	The Diwali campaign has outperformed the Sankranti campaign, with a revenue increase of 149.3% compared to Sankranti's 141.3%.
+
 •	Out of 5 Product category, Home Appliances has recorded the highest significant lift in sales by increasing the incremental revenue percentage by 265.2%. 
-•	The company should discontinue offering the 25% off promotion as it is causing a decrease in revenue. On the other hand, the BOGOF promotion type is excelling in comparison to all other types and generating substantial revenue for the company.
+
+•	The company should discontinue offering the 25% off promotion as it is causing a decrease in revenue. On the other hand, the BOGOF promotion type is excelling in comparison 
+  to all other types and generating substantial revenue for the company.
